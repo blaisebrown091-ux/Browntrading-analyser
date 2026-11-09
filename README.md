@@ -1,0 +1,2 @@
+# Browntrading-analyser
+trade analyser 
